@@ -1,0 +1,24 @@
+{
+  "knock": {
+    "subtitle": "subtitles.myknocker.knock",
+    "sounds": [
+      { "name": "minecraft:mob/zombie/wood1" },
+      { "name": "minecraft:mob/zombie/wood2" },
+      { "name": "minecraft:mob/zombie/wood3" }
+    ]
+  },
+  "jumpscare": {
+    "subtitle": "subtitles.myknocker.jumpscare",
+    "sounds": [
+      { "name": "minecraft:mob/ghast/scream1" },
+      { "name": "minecraft:mob/ghast/scream2" }
+    ]
+  },
+  "breath": {
+    "subtitle": "subtitles.myknocker.breath",
+    "sounds": [
+      { "name": "minecraft:mob/endermen/idle1" },
+      { "name": "minecraft:mob/endermen/idle2" }
+    ]
+  }
+}
